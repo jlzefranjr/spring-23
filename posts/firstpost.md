@@ -1,6 +1,6 @@
 ---
-title: This is my first post.
-description: This is a description of a post.
+title: Average Rush Hour Traffic At State Gym
+description: The average number of gym goers around rush hour at State gym. This information can lead Iowa State students to better expect when the gym and therefore equipment will be crowded.
 date: 2018-05-01
 tags:
   - another tag
