@@ -1,6 +1,6 @@
 ---
-title: This is my fourth post.
-description: This is a post on My Blog about touchpoints and circling wagons.
+title: Deep oonversations can lead to better friendships and a better life.
+description: Having a conversation with friends about more of the "hows" of their day instead of the "whats" can lead to deeper understanding on both sides. This can lead to a stronger relationship and better conversations going forward.
 date: 2018-09-30
 tags: second tag
 layout: layouts/post.njk
