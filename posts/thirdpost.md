@@ -1,6 +1,6 @@
 ---
-title: This is the third post.
-description: This is the description of the third post.
+title: Faith-based small groups give students a home away from home
+description: Faith-based "small groups" around Iowa State can afford students a chance to broaden their relationships, grow in their faith, and have a weekly place to express themselves.
 date: 2018-08-24
 tags:
   - second tag
