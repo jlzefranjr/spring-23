@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: City of Ames Response to Icy Conditions
+description: The city of Ames has been put to the test again this year in providing safety during icy conditions. The yearly protocol of spreading ice on the roads hopes to give cars a fighting chance, and people as well.
 date: 2018-07-04
 tags:
   - number 2
