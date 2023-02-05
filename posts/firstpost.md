@@ -1,6 +1,7 @@
 ---
-title: Average Rush Hour Traffic At State Gym
-description: The average number of gym goers around rush hour at State gym. This information can lead Iowa State students to better expect when the gym and therefore equipment will be crowded.
+title: Traffic at State Gym to Navigate Your Preferred Workout Schedule
+description: Iowa State University has two gyms within its campus. Lied and State gymnasiums provide students with the tools necessary to keep their body in shape. With no student having the same schedule, this leads to a constant flow of patrons in and out of these gyms. For State gym in particluar, here is an article briefly covering the traffic trends. This can help students navigate what times to go according to how busy they prefer the gym.
+
 date: 2018-05-01
 tags:
   - another tag
