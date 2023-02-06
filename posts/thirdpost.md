@@ -1,13 +1,24 @@
 ---
-title: Faith-based small groups give students a home away from home
-description: Faith-based "small groups" around Iowa State can afford students a chance to broaden their relationships, grow in their faith, and have a weekly place to express themselves.
-date: 2018-08-24
+title: Setting Up a Workout Routine at College
+description: College students navigating a sufficient workout rgimen is beneficial, and can lead to healthy habits that continue past graduation. Learning how to establish a quality workout routine can set students up for a healthier life. 
+
+date: 2023-2-6
 tags:
-  - second tag
-  - posts with two tags
+  - Exercise
+  - College
+  - Lifestyle
+  - Healthy Habits
+  
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+
+## Prioritizing Regular Exercise In College
+
+Higher education can bring along with it growth in many domains. And while growth is inevitable, someone's environment can make it easier for it to take hold. Both internal and external factors can lead to someone's capacity for growth. For example, having an open mind is a great for priming your internal environment. Another example is being surrounded by others who desire similar goals, which primes your external environment. Fitting in regular exercise can seem challenging with the many time commitments of a college student. There are many responsibilities along with the recommendation for regular exercise. But one thing many can benefit from is a trip to the gym. 
+
+
+The gym provides a place where people can improve their physical health and mental health even after one visit. Over time, this habit can prove great improvements in overall wellbeing. Therefore, making it a routine of working out at the gym is a catalyst for growth. When someone is working nonstop on school work they're less able to find time for exercise. Although benders at the library can boost GPA (as inferred by Pub Med's study: https://pubmed.ncbi.nlm.nih.gov/29170702/), too much time not exercising can lead to less cardiovascular endurance and heightened sedentary behavior. So these following paragraphs will hint at how college students can incorporate more physical exercise in their life by attending the gym. This can lead to improved physical and mental health, and instill habits for wellbeing that continue to transpire following graduation.
+
 
 ``` js/2/4
 // this is a command
@@ -22,8 +33,6 @@ function myCommand() {
 console.log('Test');
 ```
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+## Suggestions as How to Formulate a Weekly Workout Schedule
 
-## Section Header
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+blah blah blah 
