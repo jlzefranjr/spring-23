@@ -20,17 +20,9 @@ Higher education can bring along with it growth in many domains. And while growt
 The gym provides a place where people can improve their physical health and mental health even after one visit. Over time, this habit can prove great improvements in overall wellbeing. Therefore, making it a routine of working out at the gym is a catalyst for growth. When someone is working nonstop on school work they're less able to find time for exercise. Although benders at the library can boost GPA (as inferred by Pub Med's study: https://pubmed.ncbi.nlm.nih.gov/29170702/), too much time not exercising can lead to less cardiovascular endurance and heightened sedentary behavior. So these following paragraphs will hint at how college students can incorporate more physical exercise in their life by attending the gym. This can lead to improved physical and mental health, and instill habits for wellbeing that continue to transpire following graduation.
 
 
-``` js/2/4
-// this is a command
-function myCommand() {
-	let counter = 0;
+``` 
+![image](https://user-images.githubusercontent.com/123126599/217048340-82ef617d-324e-4dcb-a3f7-b624f772d902.png)
 
-	counter++;
-
-}
-
-// Test with a line break above this line.
-console.log('Test');
 ```
 
 ## Suggestions as How to Formulate a Weekly Workout Schedule
