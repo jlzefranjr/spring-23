@@ -1,7 +1,7 @@
 ---
 title: Nutritious and Gluten-Free Substitutes For Standard White Pasta Noodles
 description: Pasta noodles are a regular pantry choice for numerous reasons. These reasons may include cost-effeectivenss, easy to prepare, versatile in recipes, having a long shelf life, and tastes good. This article provides alternatives for those wanting to increase their intake of nurients or who eat gluten-free, all while providing the same food medium people enjoy; pasta!
-date: 23-2-7
+date: 2023-7-2
 tags:
   - number 2
 layout: layouts/post.njk
