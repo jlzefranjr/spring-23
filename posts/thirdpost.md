@@ -1,6 +1,6 @@
 ---
 title: Help For Setting Up a Workout Routine in College
-description: College students navigating a sufficient workout rgimen is beneficial, and can lead to healthy habits that continue past graduation. Learning how to establish a quality workout routine can set students up for a healthier life. 
+description: College students navigating a sufficient workout regimen is beneficial, and can lead to healthy habits that continue past graduation. Learning how to establish a quality workout routine in college can set students up for a healthier life. 
 
 date: 2023-2-6
 tags:
