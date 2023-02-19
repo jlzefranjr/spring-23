@@ -1,15 +1,21 @@
 ---
-title: Traffic at State Gym to Navigate Your Preferred Workout Schedule
-description: Iowa State University has two gyms within its campus; Lied and State gymnasiums. They provide students with the tools necessary to keep their body in shape. With no student having the same schedule, this leads to a constant flow of patrons in and out of these gyms. For State gym in particluar, here is an article briefly covering the traffic trends. This can help students navigate what times to go according to how busy they prefer the gym.
+title: Piecing Together a Workout at State Gym
+description: : A list of different resources and ways to use them that can help you formulate workouts according to your desired fitness goals. Allowing you to approach the amenties at State Gym with more confidence, increased awareness of what could work, and seeing how you might be able to enhance your workout routine. This can hopefully lead to a needed or fun additon to your routine, and ultimately for you to have a greater chance at an effective workout!
 
-date: 2018-05-01
-tags:
-  - another tag
+date: 2023-02-19
+tags: 
+  - Exercise
+  - Workout Routine
+  - State Gym
+  - Iowa State
+
+
 layout: layouts/post.njk
 ---
 
-
-Physical health is essential for overall health. Regular exercise doesn't have to be cited as a new way to live a healthier life, it is an objective truth. For those who are able to work out to any degree, it is better than none at all.  A holistic approach to well-being includes nurturing and strengthening the mind, body, and spirit. These can be pursued in varying ways, and some establishments and rooted in supporting one of them. For example, going to college greatly helps the mind. As for the body, a gymnasium is well-equipped for keeping it healthy. State gymnasium provides students with the location and resources to become and stay active while in school. Although, course schedules and extracurriculars pose a threat to regular exercise. PubMed.org's study: "College Student Work Habits are Related to Physical Activity and Fitness" affirms that vigorous physical activity is negatively associated with course load, among other findings. This shows how attendance can be difficult for college students during classes. State gym offers hours that are kind to many lifestyles in college, but some are busier than others. As the gym becomes more of a habit, preferences are formed around many things. This can be from the type of music while working out, time of day, style of exercise, going alone vs with a group, and one that this article addresses. Some gym goers prefer a desolate gym over a busy one. According to the hours State gym provides, here is an insider look at what different times tend to look like.
+ State Gym at Iowa State University provides ample equipment to tackle any desired muscle group. It has certain grouping of machines strewn across the building in hopes of a more effective layout. For example, many cardio machines are along the top floor overlooking the squat racks. And furthering that, the squat racks are all next to each other. State is one of the two gyms on campus for Iowa State students. Many resources have to be provided in the building to give students an oppurtunity for a great exercise, no matter what they plan on working out. People come to the gym for many reasons, and not everyone likes to go about or should go about exercise in the same manner. But one of the more unanimous problems is how to go about a workoout effectively. This can lead to the "where do I start?" dilemma. Luckily, State Gym has many resources that point at possibilities to answer this. This article hopes to assist you while traversing State Gym and its many machines. This article gives insight on how you can utilize machines and areas within the gym to conquer workouts focused on weight training, core strength, cardio, and even...mindfulness! Some have been tried, some are educated quesses, and this doesn't stop you from experimenting on your own. But maybe it can help with the often daunting question of "where do I start?".
+ 
+ 
 
 
 ## Section Header
