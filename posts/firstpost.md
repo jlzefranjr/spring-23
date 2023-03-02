@@ -4,10 +4,10 @@ description: A short article that exposes its readers to beneficial "Brain Food"
 
 date: 2023-02-19
 tags: 
-  - Exercise
-  - Workout Routine
-  - State Gym
-  - Iowa State
+  - Cognitive Health
+  - Brain Food
+  - Functional Nutrition
+  - Mental Wellbeing
 
 
 layout: layouts/post.njk
