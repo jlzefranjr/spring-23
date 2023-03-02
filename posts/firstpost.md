@@ -1,6 +1,6 @@
 ---
 title: Brain Food :)
-description: A short article that exposes its readers to beneficial "Brain Food" : food that nourishes the brain for enhanced performance and health.
+description: A short article that exposes its readers to beneficial "Brain Food", or a food that nourishes the brain, for enhanced performance and health.
 
 date: 2023-02-19
 tags: 
