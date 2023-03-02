@@ -1,5 +1,5 @@
 ---
-title: Brain Food :), Food Items That INcrease Cognitive Abilities (No, not a limi Mental Fuel For Improved Cognitive Function
+title: Brain Food :)
 description: No, this isn't promoting a limitless pill, but that could be a good analogy for what follows. Here is a list of cognitive supporting ingreditents that supplying essential vitamins and nutrietns foroptimal brain health. Thrusting your gut works wonnders, but so does caring for your mind well.
 
 date: 2023-02-19
